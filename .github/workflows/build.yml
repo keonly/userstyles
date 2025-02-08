@@ -3,7 +3,7 @@ name: Build Stylus Export
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [custom]
     paths-ignore: ["docs/**"]
 
 jobs:
