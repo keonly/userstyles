@@ -55,10 +55,10 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 - [MDN](styles/mdn)
 - [NixOS Manual, Nixpkgs Manual](styles/nixos-manual)
 - [npm](styles/npm)
-- [Ollama](styles/ollama)
 - [paste.rs](styles/paste.rs)
 - [PyPI](styles/pypi)
 - [PythonAnywhere](styles/pythonanywhere)
+- [React.dev](styles/react.dev)
 - [Trinket](styles/trinket)
 - [Vercel, Next.js](styles/vercel)
 - [web.dev](styles/web.dev)
@@ -68,6 +68,13 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 <summary>🌱 Terminals</summary>
 
 - [Ghostty.org](styles/ghostty.org)
+
+</details>
+<details open>
+<summary>🗂️ File Managers</summary>
+
+- [openmediavault](styles/openmediavault)
+- [Syncthing](styles/syncthing)
 
 </details>
 <details open>
@@ -115,7 +122,7 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 <summary>📸 Photo &amp; Video</summary>
 
 - [Google Photos](styles/google-photos)
-- ❤️‍🩹 [Pinterest](styles/pinterest)
+- [Pinterest](styles/pinterest)
 
 </details>
 <details open>
@@ -131,7 +138,6 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 <summary>📖 Productivity</summary>
 
 - [AlternativeTo](styles/alternativeto)
-- [Amplenote](styles/amplenote)
 - [cobalt](styles/cobalt)
 - [Google Drive](styles/google-drive)
 - [Have I Been Pwned](styles/have-i-been-pwned)
@@ -139,12 +145,10 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 - [inoreader](styles/inoreader)
 - [keybr.com](styles/keybr.com)
 - ❤️‍🩹 [Microsoft Word](styles/microsoft-word)
-- [openmediavault](styles/openmediavault)
 - [Porkbun](styles/porkbun)
 - [Proton](styles/proton)
 - [Raindrop](styles/raindrop)
 - [Rentry.co](styles/rentry.co)
-- [Syncthing](styles/syncthing)
 - [tldraw](styles/tldraw)
 - [Vikunja](styles/vikunja)
 
@@ -164,11 +168,23 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 
 </details>
 <details open>
+<summary>📝 Note Taking</summary>
+
+- [Amplenote](styles/amplenote)
+
+</details>
+<details open>
 <summary>🎓 Education</summary>
 
-- ❤️‍🩹 [Canvas LMS](styles/canvas-lms)
+- [Canvas LMS](styles/canvas-lms)
 - [Formative](styles/formative)
 - [Quizlet](styles/quizlet)
+
+</details>
+<details open>
+<summary>📰 News &amp; Journalism</summary>
+
+- [Substack](styles/substack)
 
 </details>
 <details open>
@@ -211,7 +227,6 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 - [Holodex](styles/holodex)
 - ❤️‍🩹 [Invidious](styles/invidious)
 - [Picrew](styles/picrew)
-- [Substack](styles/substack)
 - [Twitch](styles/twitch)
 - [YouTube](styles/youtube)
 
@@ -220,7 +235,6 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 <summary>🎮 Games</summary>
 
 - [Advent Of Code](styles/advent-of-code)
-- [bStats](styles/bstats)
 - [Chess.com](styles/chess.com)
 - [Lichess](styles/lichess)
 - ❤️‍🩹 [Minesweeper Online](styles/minesweeper)
@@ -229,11 +243,18 @@ To get started contributing to catppuccin/userstyles, see [Contributing](docs/CO
 
 </details>
 <details open>
+<summary>📊 Analytics</summary>
+
+- [bStats](styles/bstats)
+
+</details>
+<details open>
 <summary>🤖 Artificial Intelligence</summary>
 
 - [ChatGPT](styles/chatgpt)
 - [Google Gemini](styles/google-gemini)
 - [InvokeAI](styles/invokeai)
+- [Ollama](styles/ollama)
 - [Perplexity](styles/perplexity)
 
 </details>
