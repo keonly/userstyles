@@ -4,13 +4,13 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin for <a href="https://invidious.io">Invidious</a>
+  Catppuccin for <a href="https://claude.ai">Claude</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Ainvidious"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/invidious?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/keonly/userstyles/main/styles/invidious/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Aclaude"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/claude?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/claude/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 ## Usage
@@ -18,12 +18,9 @@
 See [the userstyle usage instructions](../../docs/USAGE.md).
 
 
-## ❤️‍🩹 Unmaintained
-This userstyle currently lacks maintainers, and may not work correctly. Please feel free to contribute for any issues you find!
+## 💝 Current Maintainer
+- [ruiiiijiiiiang](https://github.com/ruiiiijiiiiang)
 
-## 💖 Past Maintainers
-- [unseen-ninja](https://github.com/unseen-ninja)
-- [nekowinston](https://github.com/nekowinston)
 
 &nbsp;
 

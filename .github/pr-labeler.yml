@@ -3,6 +3,7 @@ advent-of-code: styles/advent-of-code/**/*
 alternativeto: styles/alternativeto/**/*
 amplenote: styles/amplenote/**/*
 anilist: styles/anilist/**/*
+anichart: styles/anilist/**/*
 arch-wiki: styles/arch-wiki/**/*
 boringproxy: styles/boringproxy/**/*
 brave-search: styles/brave-search/**/*
@@ -13,6 +14,7 @@ chatgpt: styles/chatgpt/**/*
 chatreplay: styles/chatreplay/**/*
 chess.com: styles/chess.com/**/*
 cinny: styles/cinny/**/*
+claude: styles/claude/**/*
 codeberg: styles/codeberg/**/*
 cobalt: styles/cobalt/**/*
 crates.io: styles/crates.io/**/*
@@ -57,6 +59,7 @@ keyoxide: styles/keyoxide/**/*
 lastfm: styles/lastfm/**/*
 lemmy: styles/lemmy/**/*
 libreddit: styles/libreddit/**/*
+redlib: styles/libreddit/**/*
 lichess: styles/lichess/**/*
 lingva: styles/lingva/**/*
 linkedin: styles/linkedin/**/*
@@ -73,6 +76,7 @@ mullvad-leta: styles/mullvad-leta/**/*
 namemc: styles/namemc/**/*
 nitter: styles/nitter/**/*
 nixos-manual: styles/nixos-manual/**/*
+nixpkgs-manual: styles/nixos-manual/**/*
 nixos-search: styles/nixos-search/**/*
 wiki.nixos.org: styles/wiki.nixos.org/**/*
 npm: styles/npm/**/*
@@ -113,6 +117,7 @@ tuta: styles/tuta/**/*
 twitch: styles/twitch/**/*
 twitter: styles/twitter/**/*
 vercel: styles/vercel/**/*
+next.js: styles/vercel/**/*
 vikunja: styles/vikunja/**/*
 web.dev: styles/web.dev/**/*
 whatsapp-web: styles/whatsapp-web/**/*
