@@ -2,10 +2,10 @@ name: Deno Check
 
 on:
   push:
-    branches: [main]
+    branches: [upstream]
     paths: ["**/*.ts"]
   pull_request:
-    branches: [main]
+    branches: [upstream]
     paths: ["**/*.ts"]
 
 jobs:

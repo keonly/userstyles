@@ -3,7 +3,7 @@ name: Sync Maintainers
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [upstream]
     paths: ["scripts/userstyles.yml"]
 
 jobs:

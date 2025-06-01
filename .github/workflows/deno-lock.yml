@@ -2,7 +2,7 @@ name: Update Deno Lock
 
 on:
   pull_request:
-    branches: [main]
+    branches: [upstream]
     paths: ["deno.json"]
 
 jobs:
